@@ -20,3 +20,5 @@ processed image is then sent to process 0, to be built back together.
 process 0 processes its own chunk, and then recieves data from each other process and stitches them together.
 
 process 0 produces image.
+
+Old repository link: https://github.com/sapray/image_processing_mpi
